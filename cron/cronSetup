@@ -1,0 +1,2 @@
+@reboot php /var/www/html/iotplant/index.php daemon devicesstatus
+* * * * * php /var/www/html/iotplant/index.php daemon devicesstatus
